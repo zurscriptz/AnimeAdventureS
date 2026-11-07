@@ -3,5 +3,5 @@ task.spawn(function()
 end)
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/visual/aa_doop"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zurscriptz/lua/refs/heads/main/autofarm.lua"))()
 end)
